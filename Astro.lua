@@ -3677,8 +3677,8 @@ end
 local notif1 = (function()
     pcall(function()
         safeNotify({
-            Title = "Script loaded!",
-            Content = "Script made by @hmmm5651\nYT: @gpsickle",
+            Title = "Astro.lua Loaded!",
+            Content = "Script made by @Astrocodee",
             Audio = "rbxassetid://17208361335",
             Length = 10,
             Image = "rbxassetid://4483362458",
