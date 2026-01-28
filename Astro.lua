@@ -2671,8 +2671,7 @@ local function applyClientMaster(state)
 end
 
 local function makeui()
-    lib:SetTitle("Astro.lua BEST SCRIPT")
-    lib:SetIcon("http://www.roblox.com/asset/?id=132214308111067")
+    lib:SetTitle("Astro.lua BEST SCRIPT FOR ALL GAMES")
     lib:SetTheme("HighContrast")
     local T0 = lib:CreateTab("Client")
     local T1 = lib:CreateTab("Main")
